@@ -6,7 +6,7 @@
   "description": "郑州创新科技中等专业学校 - 牛顿力学原理学习平台",
   "scripts": {
     "dev": "vite",
-    "build": "chmod +x node_modules/.bin/vite && vite build",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
